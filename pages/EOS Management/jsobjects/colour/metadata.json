@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "colour",
+    "pageId": "EOS Management",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "EOS Management_colour",
+  "deleted": false,
+  "gitSyncId": "64e89dd6ddfe8523fcdbdc12_64ff69b751ae2d0088123d7c"
+}
